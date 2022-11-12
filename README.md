@@ -13,10 +13,6 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 * Faire parvenir une liste de 10 recommandations pour améliorer le site en justifiant ces recommandations 
 * Optimiser le site en appliquant les 10 recommandations à son contenu et son code source en fournissant un code complet du site amélioré.
 
-
-## Documentations  
-[Maquette du site à optimiser](https://github.com/Guillaume-S92/Project_4/tree/main/La_Panthere/La_Panthere_code)
-
 ## Compétences évaluées
 
     Écrire un code HTML et CSS maintenable
@@ -27,4 +23,6 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 
 ## Résultat de l'audit:
 
-Consulter les résultats de l'audit [ici](https://github.com/Guillaume-S92/Project_4/tree/main/La_Panthere/Rapport_SEO)
+Consulter les résultats de l'audit [ici](https://github.com/Guillaume-S92/Project_4/tree/main/La_Panthere/Rapport_SEO)  
+Le site web est consultable [ici](
+
