@@ -1,16 +1,7 @@
 # Rapport SEO pour optimisez un site web
 
-Ce projet est réalisé dans le cadre du parcours Développeur Web du site OpenClassrooms
 
-Logo ChouetteAgence
-Documentations
-
-    Maquette READYMADE du site à optimiser
-
-Technologies utilisées
-
-Sans objet
-Objectifs de la mission
+## Objectif de la mission
 
     Scénario
 
@@ -30,7 +21,7 @@ Amélioration du SEO du site. Il faudra ensuite optimiser notre site en appliqua
 Accessibilité du site web. Actuellement, certains de nos utilisateurs rencontrent des problèmes d’accessibilité à notre site. On souhaite vraiment garantir l’accessibilité à tous. Tu devras donc ajouter les éléments nécessaires. La liste de ce que tu devras implémenter se trouve à cette adresse.
 Comparaison des résultats. La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. J’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 
-Compétences évaluées
+## Compétences évaluées
 
     Écrire un code HTML et CSS maintenable
     Assurer l'accessibilité d'un site web
