@@ -27,4 +27,4 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 
 ## Résultat de l'audit:
 
-Consulter les résultats de l'audit [ici](
+Consulter les résultats de l'audit [ici](https://github.com/Guillaume-S92/Project_4/tree/main/La_Panthere/Rapport_SEO)
